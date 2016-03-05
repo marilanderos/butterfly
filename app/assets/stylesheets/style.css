@@ -282,7 +282,7 @@ a.learn_more2:hover{
 
 
 
-/* Services
+/* Services--- changed to skills 
 ---------------------------------*/
 
 #service{
@@ -397,7 +397,7 @@ a.learn_more2:hover{
 .service-list-col1 i{
 	display:;
 	color:#888;
-	font-family: 'linecons';
+	font-family: 'FontAwesome';
 	font-size: 19px;
     font-style: normal;
     line-height: 20px;
@@ -770,10 +770,10 @@ img {
 .team-leader ul li a:hover, .team-leader ul li a:focus{
 	text-decoration:none;
 }
-.team-leader ul li a.fa-twitter:hover{
-	color:#55acee;
+.team-leader ul li a.fa-github:hover{
+	color:#8A2BE2;
 }
-.team-leader ul li a.fa-facebook:hover{
+.team-leader ul li a.fa-linkedin-square:hover{
 	color:#3b5998;
 }
 .team-leader ul li a.fa-pinterest:hover{
@@ -993,8 +993,8 @@ img {
 .social-link li a:hover, .social-link li a:focus{
 	text-decoration:none;
 }
-.twitter a:hover {
-	background: #55acee;
+.github a:hover {
+	background: #8A2BE2;
 }
 .facebook a:hover {
 	background: #3b5998;
